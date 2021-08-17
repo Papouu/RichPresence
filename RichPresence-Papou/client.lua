@@ -3,7 +3,7 @@ Citizen.CreateThread(function()
 		SetDiscordAppId(852845953241095612) -- Discord id sur le discord dev
 
         -- Le nom de ta photo sur le discord dev
-		SetDiscordRichPresenceAsset('Nom de l\'image')
+	SetDiscordRichPresenceAsset('Nom de l\'image')
 
         -- Le nom de ta photo sur le discord dev
         SetDiscordRichPresenceAssetSmall('Nom de l\'image')
