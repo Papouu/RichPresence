@@ -1,6 +1,6 @@
 Citizen.CreateThread(function()
 	while true do
-		SetDiscordAppId(852845953241095612) -- Discord id sur le discord dev
+	SetDiscordAppId(852845953241095612) -- Discord id sur le discord dev
 
         -- Le nom de ta photo sur le discord dev
 	SetDiscordRichPresenceAsset('Nom de l\'image')
